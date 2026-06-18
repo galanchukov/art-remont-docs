@@ -14,7 +14,8 @@ export default defineConfig({
       {
         text: 'Аналитика',
         items: [
-          { text: 'Топ сайтов Сочи', link: '/seo/Топ_сайтов_Сочи' }
+          { text: 'Топ сайтов Сочи', link: '/seo/Топ_сайтов_Сочи' },
+          { text: 'Сравнение доменов (RU vs РФ)', link: '/seo/Сравнение_доменов_RU_vs_РФ' }
         ]
       }
     ]
