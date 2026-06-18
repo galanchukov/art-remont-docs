@@ -1,0 +1,740 @@
+{
+  "object": "document",
+  "data": {},
+  "nodes": [
+    {
+      "object": "block",
+      "type": "paragraph",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": "Чтобы начать работу с этим проектом, опирайтесь на два стартовых блока: ",
+              "marks": []
+            },
+            {
+              "object": "leaf",
+              "text": "база (аудит/трекинг/домены)",
+              "marks": [
+                {
+                  "object": "mark",
+                  "type": "bold",
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "object": "leaf",
+              "text": " и ",
+              "marks": []
+            },
+            {
+              "object": "leaf",
+              "text": "план работ (канбан)",
+              "marks": [
+                {
+                  "object": "mark",
+                  "type": "bold",
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "object": "leaf",
+              "text": ".",
+              "marks": []
+            }
+          ],
+          "key": "STLUGNf8fdgX"
+        }
+      ],
+      "key": "dVC0Ivjf7JiY"
+    },
+    {
+      "object": "block",
+      "type": "heading-2",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": "1) Заложите фундамент до запусков кампаний",
+              "marks": []
+            }
+          ],
+          "key": "GrNRXzTspsIK"
+        }
+      ],
+      "key": "ZnJvBCWhLa7j"
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": "На странице ",
+              "marks": []
+            }
+          ],
+          "key": "a720cbCqDIrC"
+        },
+        {
+          "object": "inline",
+          "type": "link",
+          "isVoid": false,
+          "data": {
+            "ref": {
+              "kind": "page",
+              "space": "kE0JtLOSc0qCzrxtWJq0",
+              "page": "LENjAS4UyeJJi4LipaOa"
+            }
+          },
+          "nodes": [
+            {
+              "object": "text",
+              "leaves": [
+                {
+                  "object": "leaf",
+                  "text": "Полный Аудит и Сравнение доменных зон",
+                  "marks": []
+                }
+              ],
+              "key": "Wezq4KCcQ1oh"
+            }
+          ],
+          "key": "uLcN4sOLx562"
+        },
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": " зафиксировано, что сейчас база заявок ",
+              "marks": []
+            },
+            {
+              "object": "leaf",
+              "text": "leads.json",
+              "marks": [
+                {
+                  "object": "mark",
+                  "type": "code",
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "object": "leaf",
+              "text": " пустая — значит, важно сразу подготовить то, что будет собирать и измерять результат.",
+              "marks": []
+            }
+          ],
+          "key": "hU2vGTZPLkmy"
+        }
+      ],
+      "key": "9YEjNkfrpSNI"
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": "Сделайте акцент на:",
+              "marks": []
+            }
+          ],
+          "key": "d9Q6YHsLWqYl"
+        }
+      ],
+      "key": "qDpvvF2V14rL"
+    },
+    {
+      "object": "block",
+      "type": "list-unordered",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "Выбор основного домена",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ": рекомендован ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "art-remont-sochi.ru",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "code",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ".",
+                      "marks": []
+                    }
+                  ],
+                  "key": "TDslDafn5PJc"
+                }
+              ],
+              "key": "etP4WfVWqVjE"
+            }
+          ],
+          "key": "QTklSVw8WY4F"
+        },
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "Доп. домен для имиджа",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ": ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "искусство-ремонта.рф",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "code",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " (с настройкой зеркального ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "301-редиректа",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " на основной ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ".ru",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "code",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ").",
+                      "marks": []
+                    }
+                  ],
+                  "key": "PbWYzKWRbJH0"
+                }
+              ],
+              "key": "nuoIHRO0KXv8"
+            }
+          ],
+          "key": "mzWjxgMCzhfJ"
+        },
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "Отслеживание целей",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ": настроить ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "Яндекс.Метрику",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " и ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "Google Analytics 4",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ".",
+                      "marks": []
+                    }
+                  ],
+                  "key": "IpocSyBAoVQt"
+                }
+              ],
+              "key": "OLDXQ0m41YtH"
+            }
+          ],
+          "key": "YHJbeq1PEd1c"
+        },
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "SEO-техническую разметку",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ": внедрить ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "JSON-LD Schema.org",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ".",
+                      "marks": []
+                    }
+                  ],
+                  "key": "9qS71ksNWmJa"
+                }
+              ],
+              "key": "YV3U99hoKMzG"
+            }
+          ],
+          "key": "8ZrY19n3H2bs"
+        }
+      ],
+      "key": "ebTi1oBACl3l"
+    },
+    {
+      "object": "block",
+      "type": "heading-2",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": "2) Переведите задачи в исполнение через канбан",
+              "marks": []
+            }
+          ],
+          "key": "23e0uH8jjcYc"
+        }
+      ],
+      "key": "5sOVnBiL78BO"
+    },
+    {
+      "object": "block",
+      "type": "paragraph",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": "Ориентируйтесь на ",
+              "marks": []
+            }
+          ],
+          "key": "QxQUj66jTFAd"
+        },
+        {
+          "object": "inline",
+          "type": "link",
+          "isVoid": false,
+          "data": {
+            "ref": {
+              "kind": "page",
+              "space": "kE0JtLOSc0qCzrxtWJq0",
+              "page": "rwvezWGt1f27yGbfbNMs"
+            }
+          },
+          "nodes": [
+            {
+              "object": "text",
+              "leaves": [
+                {
+                  "object": "leaf",
+                  "text": "маркетинговый_канбан",
+                  "marks": []
+                }
+              ],
+              "key": "WdLH1ftjnwen"
+            }
+          ],
+          "key": "m463479fcDEl"
+        },
+        {
+          "object": "text",
+          "leaves": [
+            {
+              "object": "leaf",
+              "text": ": заведите фокус на ближайшие пункты из секции ",
+              "marks": []
+            },
+            {
+              "object": "leaf",
+              "text": "«План / Задача»",
+              "marks": [
+                {
+                  "object": "mark",
+                  "type": "bold",
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "object": "leaf",
+              "text": " и ",
+              "marks": []
+            },
+            {
+              "object": "leaf",
+              "text": "«В работе»",
+              "marks": [
+                {
+                  "object": "mark",
+                  "type": "bold",
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "object": "leaf",
+              "text": ", например:",
+              "marks": []
+            }
+          ],
+          "key": "o5XYWsB2ImtX"
+        }
+      ],
+      "key": "cRY1wFHXPLbf"
+    },
+    {
+      "object": "block",
+      "type": "list-unordered",
+      "isVoid": false,
+      "data": {},
+      "nodes": [
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "развернуть ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "посадочные страницы сравнения",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ",",
+                      "marks": []
+                    }
+                  ],
+                  "key": "dC6EThktVsyS"
+                }
+              ],
+              "key": "AEZr9WNTGlo1"
+            }
+          ],
+          "key": "g21olrB7hpbO"
+        },
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "зарегистрировать домен",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " и DNS,",
+                      "marks": []
+                    }
+                  ],
+                  "key": "DvfZvSVCsK4Z"
+                }
+              ],
+              "key": "sSbU9IMCHwbU"
+            }
+          ],
+          "key": "pt5fkTFtvV10"
+        },
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "подготовить и запустить ",
+                      "marks": []
+                    },
+                    {
+                      "object": "leaf",
+                      "text": "тестовые кампании в Яндекс.Директ",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": ",",
+                      "marks": []
+                    }
+                  ],
+                  "key": "VEwEqjWqZeyR"
+                }
+              ],
+              "key": "S11MpDcPQGOc"
+            }
+          ],
+          "key": "Yh5LAu5UYZVA"
+        },
+        {
+          "object": "block",
+          "type": "list-item",
+          "isVoid": false,
+          "data": {},
+          "nodes": [
+            {
+              "object": "block",
+              "type": "paragraph",
+              "isVoid": false,
+              "data": {},
+              "nodes": [
+                {
+                  "object": "text",
+                  "leaves": [
+                    {
+                      "object": "leaf",
+                      "text": "интегрировать калькулятор (квиз) с CRM",
+                      "marks": [
+                        {
+                          "object": "mark",
+                          "type": "bold",
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "object": "leaf",
+                      "text": " (Bitrix24/amoCRM).",
+                      "marks": []
+                    }
+                  ],
+                  "key": "wKwqvaSdVOfZ"
+                }
+              ],
+              "key": "iTCFjT8eh6Ab"
+            }
+          ],
+          "key": "nj8y19QX8X7M"
+        }
+      ],
+      "key": "bxc9OkP8XutA"
+    }
+  ]
+}
