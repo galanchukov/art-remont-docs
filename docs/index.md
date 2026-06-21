@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Посмотреть маркетинговый план
       link: /marketing/маркетинговый_канбан
+    - theme: alt
+      text: Текущий статус проекта (Отчет)
+      link: /report
 
 features:
   - title: "📊 Анализ рынка Сочи"
